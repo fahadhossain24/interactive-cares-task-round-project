@@ -1,6 +1,6 @@
 
 const developmentErrorResponse = (error, res) => {
-    return res.status(error.statusCode ?? 500).json({
+    return res.status(error.statusCode).json({
         status: error.status,
         error: error.message,
         errorObj: error,
@@ -8,7 +8,7 @@ const developmentErrorResponse = (error, res) => {
 }
 
 const productionErrorResponse = (error, res) => {
-    return res.status(error.statusCode ?? 500).json({
+    return res.status(error.statusCode).json({
         status: error.status,
         error: error.message,
     })
