@@ -8,5 +8,5 @@
 5. after this command the server will be start
 6. then test those api accoding to the api documentation from any api testing tools like postman
 
-api documentation link (postman) : https://documenter.getpostman.com/view/29256081/2s9YXk3LcV
+api documentation link (postman) : # https://documenter.getpostman.com/view/29256081/2s9YXk3LcV
    
