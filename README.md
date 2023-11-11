@@ -2,7 +2,7 @@
 
 # project run instruction
 
-project repository link: https://github.com/fahadhossain24/interactive-cares-task-round-project/
+project repository link: https://github.com/fahadhossain24/interactive-cares-task-round-project/ 
 
 1. at first You have to do clone the project from github
 2. then run comman npm i
