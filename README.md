@@ -1,8 +1,11 @@
 # interactive-cares-task-round-project
 
-# project run instruction
+# nessessary link
 
 project repository link: https://github.com/fahadhossain24/interactive-cares-task-round-project/ 
+api documentation link (postman) : https://documenter.getpostman.com/view/29256081/2s9YXk3LcV
+
+# project run instruction
 
 1. at first You have to do clone the project from github
 2. then run comman npm i
@@ -11,5 +14,4 @@ project repository link: https://github.com/fahadhossain24/interactive-cares-tas
 5. after this command the server will be start
 6. then test those api accoding to the api documentation from any api testing tools like postman
 
-api documentation link (postman) : https://documenter.getpostman.com/view/29256081/2s9YXk3LcV
    
